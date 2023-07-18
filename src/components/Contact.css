@@ -1,0 +1,35 @@
+.card {
+  background-color: bisque;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navlink{
+  text-decoration: none;
+  background-color: #4c6baf; /* Green */
+  border: none;
+  color: white;
+  padding: 8px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition-duration: 0.4s;
+  border-radius: 8px;
+
+}
+.detail{
+  padding: 4px 0;
+  vertical-align: middle;
+  line-height:35px;
+
+}
+.titles{
+  font-size: 1.2rem;
+}

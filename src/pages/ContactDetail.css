@@ -1,0 +1,36 @@
+.contact-detail{
+  background-color: bisque;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0;
+  width: 400px;
+  border-radius: 8px;
+  margin-top: 40px;
+}
+
+.title{
+  margin: 8px 0;
+  display: flex;
+}
+.res{
+  font-size: 1.5rem;
+  display: flex;
+}
+.navlink{
+  text-decoration: none;
+  background-color: #4c6baf; /* Green */
+  border: none;
+  color: white;
+  padding: 8px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition-duration: 0.4s;
+  border-radius: 8px;
+
+}
